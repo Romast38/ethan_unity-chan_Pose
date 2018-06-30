@@ -2,4 +2,4 @@
 イーサンがUnityちゃんのポーズをします
 
 Qiita記事のソースコードです。
-https://qiita.com/drafts/5c47c099d62564bae5ba/
+https://qiita.com/romaroma/items/5c47c099d62564bae5ba
